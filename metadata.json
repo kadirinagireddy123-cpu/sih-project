@@ -1,0 +1,8 @@
+{
+  "name": "Project TRISHUL — AI Early Warning & Landslide/GLOF Risk System",
+  "description": "AI-driven early-warning and landslide/GLOF risk monitoring platform for India's North Eastern Region (NER) featuring Hazard Confidence Index (HCI), Glacier Watch, and SafePath AI evacuation routing.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
